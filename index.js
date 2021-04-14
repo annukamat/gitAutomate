@@ -3,8 +3,8 @@ const {pushCode}=require("./push-code");
 
 // const username = "test123645";
 // const password = "password@645";
-const username = "annukamat";
-const password = "github@8860000408";
+const username = "*******";
+const password = "*************";
 
 const repository = {
     name: process.argv[2],
