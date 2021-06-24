@@ -1,5 +1,5 @@
 
-# itachiUchiha
+# gitAutomate
 ##### Github Automation auto created Repository using puppeteer
 
 ### About The Project
